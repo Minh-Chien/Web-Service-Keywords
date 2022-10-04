@@ -1,1 +1,2 @@
-# Web-Service-Keywords
+# web-service-keywords
+For both REST API and SOAP
